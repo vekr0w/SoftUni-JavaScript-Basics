@@ -1,1 +1,0 @@
-test 2 oshte 1 komit
