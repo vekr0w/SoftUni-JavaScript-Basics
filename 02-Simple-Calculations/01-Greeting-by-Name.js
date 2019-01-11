@@ -1,5 +1,5 @@
 function greetings(input) {
-    let name = input.shift();
+    let name = input[0];
     console.log(`Hello, ${name}!`);
 
 }
