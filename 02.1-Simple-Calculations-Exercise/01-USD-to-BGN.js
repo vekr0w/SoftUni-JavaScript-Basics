@@ -1,6 +1,9 @@
-function moneyConverter(params) {
-    let usd = Number(params[0]);
+function moneyConverter(input) {
+
+    let usd = Number(input[0]);
+
     let bgn = usd * 1.79549;
+
     console.log(bgn.toFixed(2));
 
 }
