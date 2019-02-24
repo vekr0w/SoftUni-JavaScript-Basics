@@ -7,4 +7,4 @@ function concatenateData(input) {
 
 
 }
-concatenateData(['Maria', 'Ivanowa', 20, 'Pernik']);
+concatenateData(['Kamen', 'Petrov', 21, 'Sofia']);
