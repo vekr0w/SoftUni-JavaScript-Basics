@@ -13,7 +13,7 @@ function SpaceshipSize(input) {
         console.log(`The spacecraft holds ${roomForAust} astronauts.`);
     } else if (roomForAust < 3) {
         console.log(`"The spacecraft is too small."`);
-    } else {
+    } else if (roomForAust > 10) {
         console.log(`The spacecraft is too big.`);
     }
 }
